@@ -1,0 +1,40 @@
+.headercontainer {
+  width: 100%;
+  min-height: 20vmin;
+  /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#4096ee+0,44b7ff+100 */
+  background: #4096ee; /* Old browsers */
+  background: -moz-linear-gradient(
+    top,
+    #4096ee 0%,
+    #44b7ff 100%
+  ); /* FF3.6-15 */
+  background: -webkit-linear-gradient(
+    top,
+    #4096ee 0%,
+    #44b7ff 100%
+  ); /* Chrome10-25,Safari5.1-6 */
+  background: linear-gradient(
+    to bottom,
+    #4096ee 0%,
+    #44b7ff 100%
+  ); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4096ee', endColorstr='#44b7ff',GradientType=0 ); /* IE6-9 */
+
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding: 3% 0 3% 0;
+  /* color: #3994f5; */
+}
+.bodycontainer {
+  width: 100%;
+  min-height: 40vmin;
+  padding: 5%;
+  display: flex;
+  justify-content: center;
+}
+.tabcontainer {
+  width: 100%;
+}
+.searchbtn {
+}
